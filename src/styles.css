@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+}
+
+form {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: gray;
+    color: darkorchid;
+}
+input {
+    height: 35px;
+    background-color: lightblue;
+    font-size: large;
+}
+
+button {
+    background-color: red;
+    color: black;
+    height: 35px;
+    width: 171px;
+    border-radius: 40%;
+}
+
+button:hover {
+    background-color: rgb(160, 0, 0);
+}
