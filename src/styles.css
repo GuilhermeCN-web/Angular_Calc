@@ -11,7 +11,7 @@ h1 {
     background-color: gray;
     color: darkorchid;
 }
-input {
+input,label {
     height: 35px;
     background-color: lightblue;
     font-size: large;
